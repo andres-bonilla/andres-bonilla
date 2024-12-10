@@ -15,16 +15,16 @@ Desarrollador apasionado por aprender y construir soluciones tecnológicas. 🚀
 
 
 ## Proyectos destacados ![Commits](https://img.shields.io/badge/Commits-160-blue?style=flat-square)
-- 🔒 [Forte](https://github.com/andres-bonilla/forte) - Gestor de información sensible en desarrollo, centrado en contraseñas y datos privados con encriptación.
+- 🔒 [Forte](https://github.com/andres-bonilla/forte) - En desarrollo. Aplicación para gestionar información sensible con encriptación segura de contraseñas y datos privados.
 
-- 🎬 [Movie BASE](https://github.com/andres-bonilla/movie-base) - Página web que utiliza la API de TMDB para buscar películas, series y personas del mundo del espectáculo.
+- 🎬 [movie BASE](https://github.com/andres-bonilla/movie-base) - Página web que integra la API de TMDB para buscar y explorar películas, series y figuras del mundo del entretenimiento.
 
-- ⚽ [Match Maker](https://github.com/andres-bonilla/match-maker) - App móvil desarrollada con Expo, gestionando ligas y puntuaciones para competiciones entre usuarios, desarrollada en colaboración durante una pasantía en Balon Group.
+- ⚽ [Match Maker](https://github.com/andres-bonilla/match-maker) - App móvil con Expo para gestionar competiciones, creada en colaboración durante una pasantía en Balon Group.
 
-- ✅ [Simple To Do](https://github.com/andres-bonilla/simple-to-do) - Una simple lista de tareas hecha con Svelte.
+- ✅ [Simple To Do](https://github.com/andres-bonilla/simple-to-do) - Gestor de tareas sencillo desarrollado con Svelte.
 
 
-Puedes ver mi trabajo y proyectos completos en mi porfolio online: [Porfolio](https://andres-bonilla.vercel.app)
+Visita mi sitio online: [Porfolio](https://andres-bonilla.vercel.app)
 
 
 ## Contacto

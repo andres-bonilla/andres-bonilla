@@ -11,7 +11,8 @@ Desarrollador apasionado por aprender y construir soluciones tecnológicas. 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-bonilla&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-bonilla&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-bonilla&layout=compact&theme=light)
 
 
 ## Proyectos destacados ![Commits](https://img.shields.io/badge/Commits-160-blue?style=flat-square)

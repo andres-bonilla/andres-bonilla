@@ -27,6 +27,6 @@ A developer passionate about learning and building tech solutions. 🚀
 Visit my online site: [Porfolio](https://andres-bonilla.vercel.app)
 
 
-## Contacto
+## Contact
 - 📧 Email: [x.andresbonilla@gmail.com](mailto:x.andresbonilla@gmail.com)
 - 🔗 LinkedIn: [Andrés Bonilla](https://www.linkedin.com/in/andresbonilla-dev)

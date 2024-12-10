@@ -12,24 +12,20 @@ Desarrollador apasionado por aprender y construir soluciones tecnológicas. 🚀
 
 ## Mis estadísticas
 ### Contribuciones en GitHub
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Andres123&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andres-bonilla&theme=radical)
 
 ### Lenguajes más utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres123&layout=compact&theme=radical)
-
-### Número de commits
-![Commits](https://img.shields.io/badge/Commits-150-blue?style=flat-square)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-bonilla&layout=compact&theme=radical)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andres-bonilla&show_icons=true&theme=radical)
 
-## Proyectos destacados
+## Proyectos destacados ![Commits](https://img.shields.io/badge/Commits-150-blue?style=flat-square)
 - [Forte](https://github.com/Andres123/forte) - Gestor de información sensible en desarrollo, centrado en contraseñas y datos privados con encriptación.
 - [Movie BASE](https://github.com/Andres123/movie-base) - Página web que utiliza la API de TMDB para buscar películas, series y personas del mundo del espectáculo.
 - [Match Maker](https://github.com/Andres123/match-maker) - App móvil desarrollada con Expo, gestionando ligas y puntuaciones para competiciones entre usuarios, desarrollada en colaboración durante una pasantía en Balon Group.
 - [Simple To Do](https://github.com/Andres123/simple-to-do) - Una simple lista de tareas hecha con Svelte.
 
-## Porfolio
 Puedes ver mi trabajo y proyectos completos en mi porfolio online: [Mi Porfolio](https://tulinkdelportfolio.com)
 
 ## Contacto
